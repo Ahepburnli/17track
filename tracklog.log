@@ -1,0 +1,28 @@
+DEBUG:root:参数正确
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): t.17track.net
+DEBUG:urllib3.connectionpool:https://t.17track.net:443 "POST /restapi/track HTTP/1.1" 200 None
+DEBUG:root:cookie生成正确
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): t.17track.net
+DEBUG:urllib3.connectionpool:https://t.17track.net:443 "POST /restapi/track HTTP/1.1" 200 None
+DEBUG:root:订单 301106752282 写入成功
+DEBUG:root:订单 301106752233 写入成功
+DEBUG:root:cookie生成正确
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): t.17track.net
+DEBUG:urllib3.connectionpool:https://t.17track.net:443 "POST /restapi/track HTTP/1.1" 200 None
+DEBUG:root:订单 301106752282 写入成功
+DEBUG:root:订单 301106752233 写入成功
+DEBUG:root:cookie生成正确
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): t.17track.net
+DEBUG:urllib3.connectionpool:https://t.17track.net:443 "POST /restapi/track HTTP/1.1" 200 None
+DEBUG:root:订单 301106752282 写入成功
+DEBUG:root:订单 301106752233 写入成功
+2019-05-11 17:56:24,153 - DEBUG - cookie生成正确
+2019-05-11 17:56:24,156 - DEBUG - Starting new HTTPS connection (1): t.17track.net
+2019-05-11 17:56:28,454 - DEBUG - https://t.17track.net:443 "POST /restapi/track HTTP/1.1" 200 1673
+2019-05-11 17:56:28,456 - DEBUG - 订单 301106752282 写入成功
+2019-05-11 17:56:28,456 - DEBUG - 订单 301106752233 写入成功
+2019-05-11 17:57:59,053 - DEBUG - cookie生成正确
+2019-05-11 17:57:59,057 - DEBUG - Starting new HTTPS connection (1): t.17track.net
+2019-05-11 17:58:01,525 - DEBUG - https://t.17track.net:443 "POST /restapi/track HTTP/1.1" 200 1673
+2019-05-11 17:58:01,528 - DEBUG - 订单 301106752282 写入成功
+2019-05-11 17:58:01,530 - DEBUG - 订单 301106752233 写入成功
